@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome!",
+  "description": "Use the menu in the upper right corner to change the language.",
+  "testButton": "Test Button",
+  "appTitle": "My Application",
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "contacts": "Contacts"
+  }
+}

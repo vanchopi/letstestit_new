@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun remove:*)",
+      "Bash(bun run build)",
+      "Bash(timeout 15 bun run dev:*)"
+    ]
+  }
+}
